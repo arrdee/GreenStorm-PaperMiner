@@ -40,7 +40,7 @@ public abstract class AbstractServlet
     implements PaperMinerConstants
 {
     private static final long serialVersionUID = 1L;
-
+    //test
     protected Logger m_logger = null;
     private PoolingDriver m_poolDriver = null;
 
